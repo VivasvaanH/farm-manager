@@ -2,12 +2,12 @@
   "name": "Farm Manager",
   "short_name": "Farm Manager",
   "description": "One Stop Solution for Farming Expense Management",
-  "start_url": "/",
+  "start_url": "/farm-manager/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#27ae60",
   "orientation": "portrait-primary",
-  "scope": "/",
+  "scope": "/farm-manager/",
   "icons": [
     {
       "src": "/icon-192.png",
