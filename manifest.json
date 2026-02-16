@@ -30,14 +30,14 @@
       "short_name": "Attendance",
       "description": "Mark worker attendance",
       "url": "/?view=attendance",
-      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/farm-manager/icon-192.png", "sizes": "192x192" }]
     },
     {
       "name": "Payments",
       "short_name": "Payments",
       "description": "Record payments",
       "url": "/?view=payments",
-      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/farm-manager/icon-192.png", "sizes": "192x192" }]
     }
   ]
 }
